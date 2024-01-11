@@ -4,9 +4,6 @@
 
 # **Requirements**:
 
-# 1. Student Class:
-#     - Initialize each Student object with a name and an empty array of grades.
-#     - Implement methods to add a grade, calculate the average grade, and determine the letter grade (A, B, C, D, F).
 # 2. Gradebook Class:
 #     - Manage a collection of Student objects.
 #     - Implement methods to add a student, remove a student by name, and find a student's average and letter grade.
