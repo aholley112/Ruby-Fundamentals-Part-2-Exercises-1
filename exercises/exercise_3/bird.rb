@@ -2,7 +2,7 @@ class Bird < Animal
   attr_reader :wing_span
 
   def initialize(name, species, wing_span)
-    super(name, species)  # Calls the initialize method of the superclass, Animal
+    super(name, species)  
     @wing_span = wing_span
   end
 
